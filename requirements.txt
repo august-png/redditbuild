@@ -1,0 +1,5 @@
+praw==7.7.1
+python-dotenv==1.0.0
+apscheduler==3.10.4
+langchain==0.1.14
+langchain-openai==0.1.0
